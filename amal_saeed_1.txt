@@ -1,1 +1,2 @@
 Hello! This is the first file.
+"This is a direct edit on GitHub."
